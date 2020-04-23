@@ -3,3 +3,5 @@
 ### Setup Instructions
 
 - Make sure you have `rust` [installed](https://www.rust-lang.org/tools/install)
+  cool cool!
+  Hello!
